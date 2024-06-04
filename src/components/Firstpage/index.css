@@ -1,0 +1,44 @@
+.firstpage{
+    display:flex;
+    
+}
+.firstpageimage{
+    height:550px;
+    margin-top:50px;
+}
+.second-first{
+    width:490px;
+    margin-left:40px;
+    text-transform: capitalize;
+}
+.feature{
+    width: 116px;
+height: 28px;
+top: 1071px;
+left: 730px;
+gap: 0px;
+opacity: 0px;
+font-family: Clash Display;
+font-size: 18px;
+font-weight: 500;
+line-height: 28px;
+letter-spacing: 0.16em;
+text-align: left;
+color: #FF5555;
+text-transform: capitalize;
+}
+.premiumtext{
+    width: 359px;
+height: 48px;
+top: 1103px;
+left: 730px;
+gap: 0px;
+opacity: 0px;
+font-family: Clash Display;
+font-size: 48px;
+font-weight: 700;
+line-height: 48px;
+text-align: left;
+color: #000000;
+text-transform: capitalize;
+}

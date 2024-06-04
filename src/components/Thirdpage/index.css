@@ -1,0 +1,251 @@
+.centeralignmenthead{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+}
+.testimonial{
+    width: 150px;
+height: 28px;
+top: 2981.71px;
+left: 646px;
+gap: 0px;
+opacity: 0px;
+font-family: Clash Display;
+font-size: 18px;
+font-weight: 500;
+line-height: 28px;
+letter-spacing: 0.16em;
+text-align: center;
+color: #000000;
+text-transform:capitalize;
+
+}
+.thirdfirstparthead{
+    width: 455px;
+height: 96px;
+top: 3013.71px;
+left: 493px;
+gap: 0px;
+opacity: 0px;
+font-family: Clash Display;
+font-size: 48px;
+font-weight: 700;
+line-height: 48px;
+text-align: center;
+color: #000000;
+
+}
+.thirdsecondpart{
+    display:flex;
+}
+.thirdsecondpartimage{
+    width: 713px;
+height: 613px;
+top: 3009.71px;
+left: 80px;
+gap: 0px;
+opacity: 0px;
+}
+.besthead{
+    width: 442px;
+height: 56px;
+top: 3234.71px;
+left: 823px;
+gap: 0px;
+opacity: 0px;
+font-family: Clash Display;
+font-size: 28px;
+font-weight: 600;
+line-height: 28px;
+text-align: left;
+color: #000000;
+text-transform:capitalize;
+}
+.para{
+    width: 442px;
+height: 196px;
+top: 3314.71px;
+left: 823px;
+gap: 0px;
+opacity: 0.5px;
+font-family: Clash Display;
+font-size: 18px;
+font-weight: 500;
+line-height: 28px;
+text-align: left;
+color: #000000;
+text-transform:capitalize;
+}
+.profile{
+    width: 192px;
+height: 40px;
+top: 3534.71px;
+left: 823px;
+gap: 0px;
+opacity: 0px;
+
+}
+.nickjonas{
+    width: 97px;
+    height: 28px;
+    top: 3598.71px;
+    left: 823px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Clash Display;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 28px;
+    text-align: left;
+    color: #000000;
+        
+}
+.faqs{
+    width: 1090px;
+height: 751px;
+top: 3870.71px;
+left: 175px;
+gap: 0px;
+border-radius: 8px 0px 0px 0px;
+opacity: 0px;
+
+}
+.faq{
+    width: 44px;
+height: 28px;
+top: 3870.71px;
+left: 175px;
+gap: 0px;
+opacity: 0px;
+font-family: Clash Display;
+font-size: 18px;
+font-weight: 500;
+line-height: 28px;
+letter-spacing: 0.16em;
+text-align: left;
+color: #FF5555;
+
+}
+.faqhead{
+    width: 497px;
+height: 96px;
+top: 3902.71px;
+left: 175px;
+gap: 0px;
+opacity: 0px;
+font-family: Clash Display;
+font-size: 48px;
+font-weight: 700;
+line-height: 48px;
+text-align: left;
+color: #000000;
+text-transform:capitalize;
+
+}
+
+.faqsrow{
+    display:flex;
+    margin-left:120px;
+}
+.star{
+    margin-top:90px;
+    margin-left:150px;
+}
+.rowalignment{
+    display:flex;
+    flex-direction:row;
+}
+.orangecard{
+    width: 535px;
+height: 181px;
+top: 4038.71px;
+left: 175px;
+gap: 0px;
+border-radius: 8px 0px 0px 0px;
+opacity: 0px;
+background-color:#FF5555;
+margin:30px;
+border-radius:10px;
+}
+.orangehead{
+    width: 474px;
+height: 56px;
+top: 4069.71px;
+left: 206px;
+gap: 0px;
+opacity: 0px;
+font-family: Clash Display;
+font-size: 28px;
+font-weight: 600;
+line-height: 28px;
+text-align: left;
+color: #FFFFFF;
+margin:20px;
+text-transform:capitalize;
+
+}
+.orangepara{
+    width: 466px;
+height: 56px;
+top: 4133.71px;
+left: 206px;
+gap: 0px;
+opacity: 0px;
+font-family: Clash Display;
+font-size: 18px;
+font-weight: 500;
+line-height: 20px;
+text-align: justified;
+color: #FFFFFF;
+margin:auto;
+text-transform:capitalize;
+
+}
+.whitepara{
+    width: 466px;
+height: 56px;
+top: 4133.71px;
+left: 761px;
+gap: 0px;
+opacity: 0.5px;
+font-family: Clash Display;
+font-size: 18px;
+font-weight: 500;
+line-height: 20px;
+text-align: justified;
+color: #000000;
+text-transform:capitalize;
+}
+.whitehead{
+    width: 474px;
+height: 56px;
+top: 4069.71px;
+left: 761px;
+gap: 0px;
+opacity: 0px;
+font-family: Clash Display;
+font-size: 28px;
+font-weight: 600;
+line-height: 28px;
+text-align: left;
+color: #000000;
+text-transform:capitalize;
+
+}
+.whitecard{
+    width: 535px;
+height: 181px;
+top: 4038.71px;
+left: 730px;
+gap: 0px;
+border-radius: 8px 0px 0px 0px;
+opacity: 0px;
+color: #FFFFFF;
+margin:30px;
+}
+.entirecards{
+    align-items:center;
+    margin-left:80px;
+    justify-content: center;
+}
